@@ -5,4 +5,4 @@
 
 ## 📨 Contact me
 
-- Chat with me on Discord: juoum#0001
+- Chat with me on Discord: juoum#0890
