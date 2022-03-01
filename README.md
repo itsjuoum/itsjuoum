@@ -15,6 +15,7 @@
 
 - Chat with me on Discord: juoum#0890
 
+<a href="https://stackoverflow.com/users/15763590/juoum" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
 #
 
-<a href="https://stackoverflow.com/users/15763590/juoum" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
+<a href="https://www.buymeacoffee.com/juoum" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=juoum&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
