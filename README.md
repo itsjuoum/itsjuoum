@@ -3,7 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsjuoum" alt="juoum" /> </p>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=itsjuoum&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsjuoum&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
